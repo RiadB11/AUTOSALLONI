@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://autosallonialberti.net/kush-jemi/ -->
+<html lang="sq"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://autosallonialberti.net/xmlrpc.php">
+
+                <style>
+                .bnav_bottom_nav_wrapper {
+                 box-shadow: 0px 0px 0px 0px ;
+                                }
+                .bnav_bottom_nav_wrapper {
+                                        z-index: !important;
+                                    }
+                .bnav_bottom_nav_wrapper {
+                    -webkit-backdrop-filter: blur(5px);
+                    backdrop-filter: blur(5px);
+                }
+
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu {
+                    justify-content: flex-start                }
+                /* main-nav-alignment */
+
+                /* Main nav icon and text visibility */
+                /*.bnav_bottom_nav_wrapper ul.bnav_main_menu li .icon_wrapper {*/
+                /*    display: none;*/
+                /*}*/
+
+                /*.bnav_bottom_nav_wrapper ul.bnav_main_menu li.current_page_item .icon_wrapper.active {*/
+                /*    display: flex;*/
+                /*}*/
+
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu li .text_wrapper {
+                    display: flex;
+                }
+                
+                
+                                                .bnav_bottom_nav_wrapper ul.bnav_main_menu li a .icon_wrapper.normal {
+                    display: flex;
+                }
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu li.current_page_item .icon_wrapper.normal {
+                    display: none;
+                }
+
+                                                
+                /* Main nav text visibility */
+                                .bnav_bottom_nav_wrapper ul.bnav_main_menu li a .text_wrapper {
+                    display: flex;
+                }
+
+                
+                
+                                
+                /* End icon and text visibility css */
+
+                /* Show total number of items */
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu li {
+                    display: none !important;
+                }
+
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu li:nth-child(-n+6) {
+                    display: flex !important;
+                }
+
+                /* Typography for image */
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu li a .bnav_menu_items .img_icon img {
+                    width: 24px                }
+
+                            .bnav_main_menu_container .bnav_menu_items .bnav_flex {
+                    flex-direction: column;
+                }
+
+                            /* Show total number of items */
+            .bnav_bottom_nav_wrapper ul.bnav_main_menu li, .bnav_sub_menu_wrapper ul.sub-menu.depth-0 li, .bnav_bottom_nav_wrapper ul.sub-menu.bnav_child_sub_menu li {
+                display: none !important;
+            }
+                .bnav_bottom_nav_wrapper ul.bnav_main_menu li:nth-child(-n+6){
+                display: flex !important;
+            }
+                    </style>
+        <style>
+            .bnav_bottom_nav_wrapper {
+                display: none !important;
+            }
+
+            @media only screen and (max-width: 768px) {
+                .bnav_bottom_nav_wrapper {
+                    display: block !important;
+                }
+            }
+        </style>
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.11 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>About us - Auto Salloni Alberti</title>
+	<link rel="canonical" href="https://autosallonialberti.net/kush-jemi/">
+	<meta property="og:locale" content="sq_AL">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="About us - Auto Salloni Alberti">
+	<meta property="og:description" content="KUSH JEMI NE Kompania Alberti është themeluar në vitin 1999 nga Skender Bajrami nga Vushtrria. Gjatë dy viteve punë intensive, në dhjetor të vitit 2011, u hap salloni, qendra e shitjes së veturave në Prishtinë.  Puna jonë krijon besim dhe besueshmëri me klientët tanë dhe qëllimi ynë është t’u ofrojmë klientëve tanë makinën më të […]">
+	<meta property="og:url" content="https://autosallonialberti.net/kush-jemi/">
+	<meta property="og:site_name" content="Auto Salloni Alberti">
+	<meta property="article:modified_time" content="2023-09-26T11:51:25+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="2 minuta">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://autosallonialberti.net/kush-jemi/","url":"https://autosallonialberti.net/kush-jemi/","name":"About us - Auto Salloni Alberti","isPartOf":{"@id":"https://autosallonialberti.net/#website"},"datePublished":"2019-07-17T14:30:15+00:00","dateModified":"2023-09-26T11:51:25+00:00","breadcrumb":{"@id":"https://autosallonialberti.net/kush-jemi/#breadcrumb"},"inLanguage":"sq","potentialAction":[{"@type":"ReadAction","target":["https://autosallonialberti.net/kush-jemi/"]}]},{"@type":"BreadcrumbList","@id":"https://autosallonialberti.net/kush-jemi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://autosallonialberti.net/"},{"@type":"ListItem","position":2,"name":"About us"}]},{"@type":"WebSite","@id":"https://autosallonialberti.net/#website","url":"https://autosallonialberti.net/","name":"Auto Salloni Alberti","description":"Vendi i veturës suaj","publisher":{"@id":"https://autosallonialberti.net/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://autosallonialberti.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"sq"},{"@type":"Organization","@id":"https://autosallonialberti.net/#organization","name":"Auto Salloni Alberti","url":"https://autosallonialberti.net/","logo":{"@type":"ImageObject","inLanguage":"sq","@id":"https://autosallonialberti.net/#/schema/logo/image/","url":"https://autosallonialberti.net/wp-content/uploads/2021/09/vehica-logo-dark-retina.png","contentUrl":"https://autosallonialberti.net/wp-content/uploads/2021/09/vehica-logo-dark-retina.png","width":369,"height":64,"caption":"Auto Salloni Alberti"},"image":{"@id":"https://autosallonialberti.net/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="https://use.fontawesome.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/autosallonialberti.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="./work_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="elementor-frontend-css" href="./work_files/custom-frontend-lite.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-12599-css" href="./work_files/post-12599.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="./work_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="./work_files/classic-themes.min.css" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="./work_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="./work_files/elementor-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="swiper-css" href="./work_files/swiper.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-22699-css" href="./work_files/post-22699.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1535-css" href="./work_files/post-1535.css" type="text/css" media="all">
+<link rel="stylesheet" id="trp-floater-language-switcher-style-css" href="./work_files/trp-floater-language-switcher.css" type="text/css" media="all">
+<link rel="stylesheet" id="trp-language-switcher-style-css" href="./work_files/trp-language-switcher.css" type="text/css" media="all">
+<link rel="stylesheet" id="fa5-css" href="./work_files/all.css" type="text/css" media="all">
+<link rel="stylesheet" id="fa5-v4-shims-css" href="./work_files/v4-shims.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-bnav-css" href="./work_files/wp-bnav-public.css" type="text/css" media="all">
+<link rel="stylesheet" id="vehica-css" href="./work_files/style.css" type="text/css" media="all">
+<style id="vehica-inline-css" type="text/css">
+ body, textarea, input, button{font-family:'Raleway', Arial,Helvetica,sans-serif!important}h1, h2, h3, h4, h5, h6{font-family:'Raleway', Arial,Helvetica,sans-serif}:root{--primary:#FF4605;--primary-light:#fff0eb}
+</style>
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./work_files/fontawesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="./work_files/regular.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="./work_files/solid.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="./work_files/brands.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="vue-select-css" href="./work_files/vue-select.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-raleway-css" href="./work_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="./work_files/css(1)" type="text/css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="text/javascript" src="./work_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./work_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="lazysizes-js-before">
+        window.lazySizesConfig = window.lazySizesConfig || {};
+        window.lazySizesConfig.loadMode = 1
+        window.lazySizesConfig.init = 0
+        
+</script>
+<script type="text/javascript" src="./work_files/lazysizes.min.js.download" id="lazysizes-js"></script>
+<link rel="https://api.w.org/" href="https://autosallonialberti.net/wp-json/"><link rel="alternate" type="application/json" href="https://autosallonialberti.net/wp-json/wp/v2/pages/1535"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://autosallonialberti.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://autosallonialberti.net/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.2.3">
+<link rel="shortlink" href="https://autosallonialberti.net/?p=1535">
+<link rel="alternate" type="application/json+oembed" href="https://autosallonialberti.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fautosallonialberti.net%2Fkush-jemi%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://autosallonialberti.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fautosallonialberti.net%2Fkush-jemi%2F&amp;format=xml">
+<link rel="alternate" media="only screen and (max-width: 1024px)" href="https://m.autosallonialberti.net/"><link rel="alternate" hreflang="sq" href="https://autosallonialberti.net/kush-jemi/">
+<link rel="alternate" hreflang="en-US" href="https://autosallonialberti.net/en/kush-jemi/">
+<link rel="alternate" hreflang="en" href="https://autosallonialberti.net/en/kush-jemi/">
+<meta name="generator" content="Elementor 3.14.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style type="text/css">.bnav_bottom_nav_wrapper{background-color:transparent;}.bnav_bottom_nav_wrapper{margin-top:0px;margin-right:0px;margin-left:0px;}.bnav_bottom_nav_wrapper{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.bnav_main_menu_container ul.bnav_main_menu{background-color:rgba(255,255,255,0.95);}.bnav_main_menu_container ul.bnav_main_menu{padding-top:15px;padding-right:5px;padding-bottom:35px;padding-left:5px;}.bnav_main_menu_container ul.bnav_main_menu{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.bnav_bottom_nav_wrapper ul li > a .bnav_menu_items{padding-right:0px;padding-left:0px;}.bnav_bottom_nav_wrapper ul li a .icon_wrapper{margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;}.bnav_bottom_nav_wrapper ul li a .icon_wrapper i{color:#818799;font-size:24px;}.bnav_bottom_nav_wrapper ul li > a .bnav_menu_items:hover .icon_wrapper i,.bnav_bottom_nav_wrapper ul li.current_page_item a .icon_wrapper i,.bnav_bottom_nav_wrapper ul li.current_page_parent a .icon_wrapper i{color:#dd3333;font-size:24px;}.bnav_bottom_nav_wrapper ul li a .text_wrapper,.bnav_main_menu_container .bnav_main_menu .bnav_menu_items .cart_total{color:#818797;font-size:14px;line-height:17px;letter-spacing:.48px;}.bnav_bottom_nav_wrapper ul li a .bnav_menu_items:hover .text_wrapper,.bnav_bottom_nav_wrapper ul li.current_page_item a .text_wrapper,.bnav_bottom_nav_wrapper ul li.current_page_parent a .text_wrapper,.bnav_bottom_nav_wrapper ul li.current_page_item a .bnav_menu_items .cart_total{color:#dd3333;font-size:14px;line-height:17px;letter-spacing:.48px;}</style><link rel="icon" href="https://autosallonialberti.net/wp-content/uploads/2020/12/cropped-icon-v-32x32.png" sizes="32x32">
+<link rel="icon" href="https://autosallonialberti.net/wp-content/uploads/2020/12/cropped-icon-v-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://autosallonialberti.net/wp-content/uploads/2020/12/cropped-icon-v-180x180.png">
+<meta name="msapplication-TileImage" content="https://autosallonialberti.net/wp-content/uploads/2020/12/cropped-icon-v-270x270.png">
+<style>.swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;overflow-y:hidden;background:#fff;box-shadow:0 0 .625em #d9d9d9}.swal2-popup.swal2-toast .swal2-header{flex-direction:row;padding:0}.swal2-popup.swal2-toast .swal2-title{flex-grow:1;justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{position:static;width:.8em;height:.8em;line-height:.8}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;padding:0;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:700}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{font-size:.25em}}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{flex-basis:auto!important;width:auto;height:auto;margin:0 .3125em}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.8em;left:-.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-toast-animate-success-line-tip .75s;animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-toast-animate-success-line-long .75s;animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:swal2-toast-show .5s;animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:swal2-toast-hide .1s forwards;animation:swal2-toast-hide .1s forwards}.swal2-container{display:flex;position:fixed;z-index:1060;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}.swal2-container.swal2-backdrop-show,.swal2-container.swal2-noanimation{background:rgba(0,0,0,.4)}.swal2-container.swal2-backdrop-hide{background:0 0!important}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-bottom-end>:first-child,.swal2-container.swal2-bottom-left>:first-child,.swal2-container.swal2-bottom-right>:first-child,.swal2-container.swal2-bottom-start>:first-child,.swal2-container.swal2-bottom>:first-child{margin-top:auto}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-no-transition{transition:none!important}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-popup{display:none;position:relative;box-sizing:border-box;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border:none;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-header{display:flex;flex-direction:column;align-items:center;padding:0 1.8em}.swal2-title{position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{display:flex;z-index:1;flex-wrap:wrap;align-items:center;justify-content:center;width:100%;margin:1.25em auto 0}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-actions.swal2-loading .swal2-styled.swal2-confirm{box-sizing:border-box;width:2.5em;height:2.5em;margin:.46875em;padding:0;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:.25em solid transparent;border-radius:100%;border-color:transparent;background-color:transparent!important;color:transparent!important;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-actions.swal2-loading .swal2-styled.swal2-cancel{margin-right:30px;margin-left:30px}.swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after{content:"";display:inline-block;width:15px;height:15px;margin-left:5px;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:3px solid #999;border-radius:50%;border-right-color:transparent;box-shadow:1px 1px 1px #fff}.swal2-styled{margin:.3125em;padding:.625em 2em;box-shadow:none;font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-styled:focus{outline:0;box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1.25em 0 0;padding:1em 0 0;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;height:.25em;overflow:hidden;border-bottom-right-radius:.3125em;border-bottom-left-radius:.3125em}.swal2-timer-progress-bar{width:100%;height:.25em;background:rgba(0,0,0,.2)}.swal2-image{max-width:100%;margin:1.25em auto}.swal2-close{position:absolute;z-index:2;top:0;right:0;align-items:center;justify-content:center;width:1.2em;height:1.2em;padding:0;overflow:hidden;transition:color .1s ease-out;border:none;border-radius:0;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer}.swal2-close:hover{transform:none;background:0 0;color:#f27474}.swal2-close::-moz-focus-inner{border:0}.swal2-content{z-index:1;justify-content:center;margin:0;padding:0 1.6em;color:#545454;font-size:1.125em;font-weight:400;line-height:normal;text-align:center;word-wrap:break-word}.swal2-checkbox,.swal2-file,.swal2-input,.swal2-radio,.swal2-select,.swal2-textarea{margin:1em auto}.swal2-file,.swal2-input,.swal2-textarea{box-sizing:border-box;width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;background:inherit;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);color:inherit;font-size:1.125em}.swal2-file.swal2-inputerror,.swal2-input.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-file:focus,.swal2-input:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-file::-moz-placeholder,.swal2-input::-moz-placeholder,.swal2-textarea::-moz-placeholder{color:#ccc}.swal2-file:-ms-input-placeholder,.swal2-input:-ms-input-placeholder,.swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-file::-ms-input-placeholder,.swal2-input::-ms-input-placeholder,.swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-file::placeholder,.swal2-input::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em auto;background:#fff}.swal2-range input{width:80%}.swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-input[type=number]{max-width:10em}.swal2-file{background:inherit;font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:inherit;color:inherit;font-size:1.125em}.swal2-checkbox,.swal2-radio{align-items:center;justify-content:center;background:#fff;color:inherit}.swal2-checkbox label,.swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-checkbox input,.swal2-radio input{margin:0 .4em}.swal2-validation-message{display:none;align-items:center;justify-content:center;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;border:.25em solid transparent;border-radius:50%;font-family:inherit;line-height:5em;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474;color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}.swal2-icon.swal2-error.swal2-icon-show{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-error.swal2-icon-show .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-success{border-color:#a5dc86;color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-.25em;left:-.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-progress-steps{align-items:center;margin:0 0 1.25em;padding:0;background:inherit;font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#3085d6}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;width:2.5em;height:.4em;margin:0 -1px;background:#3085d6}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{right:auto;left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}@-webkit-keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@-webkit-keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@-webkit-keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@-webkit-keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto!important}body.swal2-no-backdrop .swal2-container{top:auto;right:auto;bottom:auto;left:auto;max-width:calc(100% - .625em * 2);background-color:transparent!important}body.swal2-no-backdrop .swal2-container>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-container.swal2-top{top:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-top-left,body.swal2-no-backdrop .swal2-container.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-top-end,body.swal2-no-backdrop .swal2-container.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-container.swal2-center{top:50%;left:50%;transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-left,body.swal2-no-backdrop .swal2-container.swal2-center-start{top:50%;left:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-end,body.swal2-no-backdrop .swal2-container.swal2-center-right{top:50%;right:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom{bottom:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom-left,body.swal2-no-backdrop .swal2-container.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-bottom-end,body.swal2-no-backdrop .swal2-container.swal2-bottom-right{right:0;bottom:0}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll!important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static!important}}body.swal2-toast-shown .swal2-container{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown .swal2-container.swal2-top-left,body.swal2-toast-shown .swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown .swal2-container.swal2-center-left,body.swal2-toast-shown .swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;transform:translate(-50%,-50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-left,body.swal2-toast-shown .swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown .swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}body.swal2-toast-column .swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-column .swal2-toast .swal2-actions{flex:1;align-self:stretch;height:2.2em;margin-top:.3125em}body.swal2-toast-column .swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-column .swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-column .swal2-toast .swal2-validation-message{font-size:1em}</style></head>
+<body class="page-template-default page page-id-1535 wp-custom-logo vehica-version-1.0.74 translatepress-sq elementor-default elementor-kit-22699 elementor-page elementor-page-1535 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop">
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>		<div data-elementor-type="wp-post" data-elementor-id="12599" class="elementor elementor-12599">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-97f8a3c elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="97f8a3c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1519px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-73bbc28" data-id="73bbc28" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c5bb9ce elementor-widget elementor-widget-vehica_menu_general_widget" data-id="c5bb9ce" data-element_type="widget" data-settings="{&quot;logo_max_height&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:32,&quot;sizes&quot;:[]},&quot;logo_max_height_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:32,&quot;sizes&quot;:[]},&quot;logo_max_height_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;sticky_logo_height&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;sticky_logo_height_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;sticky_logo_height_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;button_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_border_radius_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_border_radius_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_border_radius_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_mobile_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_mobile_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_mobile_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_mobile_border_radius_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_mobile_border_radius_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;button_mobile_border_radius_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-widget_type="vehica_menu_general_widget.default">
+				<div class="elementor-widget-container">
+			<header class="vehica-header vehica-header--no-submit-button vehica-header--with-dashboard-link"><div class="vehica-hide-mobile vehica-hide-tablet"><div class="vehica-menu__desktop"><div class="vehica-menu__wrapper"><div class="vehica-menu__left"><div class="vehica-logo"><a href="https://autosallonialberti.net/" title="Auto Salloni Alberti"><img src="./work_files/logo_web_white-1.png" alt="Auto Salloni Alberti"></a></div> <div class="vehica-logo vehica-logo--sticky"><a href="https://autosallonialberti.net/" title="Auto Salloni Alberti"><img src="./work_files/vehica-logo-dark-retina.png" alt="Auto Salloni Alberti"></a></div> <div class="vehica-menu__container"><div class="vehica-menu-hover" style="width: 0px; left: 0px;"></div> <div id="vehica-menu" class="vehica-menu"><div id="vehica-menu-element-menu-item-1-22730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-22730 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/" title="Home" class="vehica-menu__link">
+        Home    </a></div> <div id="vehica-menu-element-menu-item-1-18307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1535 current_page_item menu-item-18307 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/kush-jemi/" title="Për ne" class="vehica-menu__link">
+        Për ne    </a></div> <div id="vehica-menu-element-menu-item-1-18298" class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-18298 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/search/" title="Veturat" class="vehica-menu__link">
+        Veturat    </a></div> <div id="vehica-menu-element-menu-item-1-17571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17571 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/meet-the-team/" title="Administratë" class="vehica-menu__link">
+        Administratë    </a></div> <div id="vehica-menu-element-menu-item-1-18309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18309 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/kontakti/" title="Kontakti" class="vehica-menu__link">
+        Kontakti    </a></div></div></div></div> <div class="vehica-menu__sticky-submit"></div></div></div></div> <div class="vehica-hide-desktop"><div class="vehica-mobile-menu__wrapper vehica-mobile-menu__wrapper--mobile-simple-menu vehica-hide-desktop"><div class="vehica-mobile-menu__hamburger"><div><svg xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="0 0 28 21" class="vehica-menu-icon"><g id="vehica-menu-svg" transform="translate(-11925 99)"><rect id="Op_component_1" data-name="Op component 1" width="28" height="4.2" rx="1.5" transform="translate(11925 -99)" fill="#FF4605"></rect> <rect id="Op_component_2" data-name="Op component 2" width="19.6" height="4.2" rx="1.5" transform="translate(11925 -90.6)" fill="#FF4605"></rect> <rect id="Op_component_3" data-name="Op component 3" width="14" height="4.2" rx="1.5" transform="translate(11925 -82.2)" fill="#FF4605"></rect></g></svg> <div class="vehica-mobile-menu__open"><div class="vehica-mobile-menu__open__content"><div class="vehica-mobile-menu__open__top"><div class="vehica-mobile-menu__open__top__x"><svg xmlns="http://www.w3.org/2000/svg" width="20.124" height="21.636" viewBox="0 0 20.124 21.636"><g id="close" transform="translate(-11872.422 99.636)"><path id="Path_19" data-name="Path 19" d="M20.163-1.122a2.038,2.038,0,0,1,.61,1.388A1.989,1.989,0,0,1,20.05,1.79a2.4,2.4,0,0,1-1.653.649,2.116,2.116,0,0,1-1.637-.754l-6.034-6.94-6.1,6.94a2.18,2.18,0,0,1-1.637.754A2.364,2.364,0,0,1,1.37,1.79,1.989,1.989,0,0,1,.648.266a2.02,2.02,0,0,1,.578-1.388l6.58-7.363L1.45-15.636a2.038,2.038,0,0,1-.61-1.388,1.989,1.989,0,0,1,.722-1.524A2.364,2.364,0,0,1,3.184-19.2a2.177,2.177,0,0,1,1.669.785l5.874,6.669,5.809-6.669A2.177,2.177,0,0,1,18.2-19.2a2.364,2.364,0,0,1,1.621.649,1.989,1.989,0,0,1,.722,1.524,2.02,2.02,0,0,1-.578,1.388L13.615-8.485Z" transform="translate(11871.773 -80.439)" fill="#ff4605"></path></g></svg></div></div> <div class="vehica-mobile-menu__nav"><div id="vehica-menu-mobile" class="vehica-menu"><div id="vehica-menu-element-menu-item-2-22730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-22730 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/" title="Home" class="vehica-menu__link">
+        Home    </a></div> <div id="vehica-menu-element-menu-item-2-18307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1535 current_page_item menu-item-18307 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/kush-jemi/" title="Për ne" class="vehica-menu__link">
+        Për ne    </a></div> <div id="vehica-menu-element-menu-item-2-18298" class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-18298 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/search/" title="Veturat" class="vehica-menu__link">
+        Veturat    </a></div> <div id="vehica-menu-element-menu-item-2-17571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17571 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/meet-the-team/" title="Administratë" class="vehica-menu__link">
+        Administratë    </a></div> <div id="vehica-menu-element-menu-item-2-18309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18309 vehica-menu-item-depth-0"><a href="https://autosallonialberti.net/kontakti/" title="Kontakti" class="vehica-menu__link">
+        Kontakti    </a></div></div></div> <div class="vehica-mobile-menu__info"><a href="tel:+38344435435"><i class="fas fa-phone-alt vehica-text-primary"></i> +383 44 435 435                                            </a> <a href="mailto:info@autosallonialberti.net"><i class="far fa-envelope vehica-text-primary"></i> info@autosallonialberti.net                                            </a></div></div></div> <div class="vehica-mobile-menu-mask"></div></div></div> <div class="vehica-mobile-menu__logo vehica-mobile-menu__logo--right"><div class="vehica-logo"><a href="https://autosallonialberti.net/" title="Auto Salloni Alberti"><img src="./work_files/logo_web_white-1.png" alt="Auto Salloni Alberti"></a></div></div></div></div></header>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1cd3f209 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1cd3f209" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1519px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e7c5937" data-id="e7c5937" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-723b5cfd elementor-widget elementor-widget-vehica_template_content" data-id="723b5cfd" data-element_type="widget" data-widget_type="vehica_template_content.default">
+				<div class="elementor-widget-container">
+					<div data-elementor-type="wp-post" data-elementor-id="1535" class="elementor elementor-1535">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-0632857 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0632857" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fb6b077" data-id="fb6b077" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8179da5 elementor-widget elementor-widget-spacer" data-id="8179da5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-07d57a3 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="07d57a3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-129904e" data-id="129904e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-b1532e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1532e6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f81687a" data-id="f81687a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-feaec80 vehica-our-ceo-v2__title elementor-widget elementor-widget-heading" data-id="feaec80" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">KUSH JEMI NE</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3f2a0fe elementor-widget__width-initial vehica-border-primary elementor-widget elementor-widget-text-editor" data-id="3f2a0fe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Kompania Alberti është themeluar në vitin 1999 nga Skender Bajrami nga Vushtrria.</p><p>Gjatë dy viteve punë intensive, në dhjetor të vitit 2011, u hap salloni, qendra e shitjes së veturave në Prishtinë.&nbsp;</p><p>Puna jonë krijon besim dhe besueshmëri me klientët tanë dhe qëllimi ynë është t’u ofrojmë klientëve tanë makinën më të mirë me çmimin më të përballueshëm.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2aa32f5 elementor-widget elementor-widget-spacer" data-id="2aa32f5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d8312a0 vehica-border-primary elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="d8312a0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Si filluam&nbsp;</p>
+<p>Kompania Auto Salon Alberti është themeluar në vitin 1999 nga vëllezërit Skender dhe Enver Bajrami nga Vushtrria, në fillim kompania merrej me shitblerje të veturave, në atë kohë veturat më të shitura ishin veturat e prodhimit gjerman.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bb659f2 vehica-border-primary elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="bb659f2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="timeline-heading">
+<div class="timeline-heading">
+<h5>Rrugëtimi ynë&nbsp;</h5>
+</div>
+<div class="timeline-body">
+<p>Pas një analize të fizibilitetit nga ana ekspertëve, menaxhmenti i kompanisë vendosi që në vitin 2009 të transferohet me seli në Prishtinë, Gjatë dy viteve të punimeve intensive, ne dhjetor të vitit 2011, hapet salloni, qendra për shitjen e automjeteve në Prishtinë. Një objekt impozant dhe ultramodern me të gjitha e kësaj veprimtarie, ku ofrohen edhe shërbimet e servisimit nga ana e stafit të palodhshëm dhe profesional , me aparaturë bashkëkohore si dhe me Auto pjesë origjinale nga prodhuesit evropian dhe botëror. Gjithashtu, në dispozicion është edhe restaurant-bar në shërbim të klientëve. Sot, kompania bën shitjen e prodhimeve të të gjithë prodhuesve kryesorë evropiane dhe botëror të veturave.</p>
+</div>
+</div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8b265a4 vehica-border-primary elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="8b265a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="timeline-heading"><div class="timeline-heading"><div class="timeline-heading"><h5>Misioni dhe Vizioni</h5></div><div class="timeline-body"><p>Puna jonë ndërton urën dhe besueshmërinë ndaj klientëve tanë, dhe qëllimi ynë është t’i ofrojmë klientit tanë makinën më të mirë me çmimin më të volitshëm. Ne jemi një kompani lidere e shitjes së automjeteve në Kosovë.</p></div></div></div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7aa2d43 vehica-border-primary elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="7aa2d43" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="timeline-heading"><div class="timeline-heading"><div class="timeline-heading"><div class="timeline-heading"><h5>Pse duhet të na zgjidhëni ne</h5></div><div class="timeline-body"><p>Sepse, 99% të klientëve tanë kthehen përsëri tek ne, për të blerë veturë pas blerjes së parë. Pra, ne jemi këtu për t’ju bërë të zgjidhni më të mirën, me çmime të volitshme. Ne u mundësojmë klientëve të zgjedhin automjetin e tyre të ardhshëm përmes faqes sonë të internetit, ose përmes rrjeteve sociale, ose të na vizitojnë në qendrën tonë. Ju jeni ata që do të ktheheni tek ne gjithmonë të kënaqur.</p></div></div></div></div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8266376 elementor-widget elementor-widget-spacer" data-id="8266376" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e21d4e0 elementor-widget-tablet__width-initial elementor-widget elementor-widget-text-editor" data-id="e21d4e0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4a7548b" data-id="4a7548b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-cf69864 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="cf69864" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-93bc11d" data-id="93bc11d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2a3c3e6 elementor-widget__width-initial elementor-widget elementor-widget-spacer" data-id="2a3c3e6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-50617d77 elementor-section-stretched vehica-our-team-bg elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="50617d77" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1519px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6372921e" data-id="6372921e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5988060 elementor-widget elementor-widget-spacer" data-id="5988060" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3723d887 elementor-widget elementor-widget-spacer" data-id="3723d887" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c80c73b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c80c73b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1519px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49fa5df4" data-id="49fa5df4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5637dec elementor-widget elementor-widget-spacer" data-id="5637dec" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1bd92e1e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1bd92e1e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-e739b3d" data-id="e739b3d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e4218e8 elementor-widget elementor-widget-spacer" data-id="e4218e8" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9785b51 elementor-widget__width-initial elementor-widget elementor-widget-vehica_logo_general_widget" data-id="9785b51" data-element_type="widget" data-settings="{&quot;vehica_logo_text_align_tablet&quot;:&quot;left&quot;,&quot;vehica_logo_text_align_mobile&quot;:&quot;center&quot;}" data-widget_type="vehica_logo_general_widget.default">
+				<div class="elementor-widget-container">
+			<div class="vehica-logo-widget">
+    <a href="https://autosallonialberti.net/" title="Auto Salloni Alberti">
+        <img src="./work_files/logo_web_white-1-165x42.png" alt="Auto Salloni Alberti">
+    </a>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6db9b804" data-id="6db9b804" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4f6efdf8 vehica-simple-menu-2-columns elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-vehica_simple_menu_general_widget" data-id="4f6efdf8" data-element_type="widget" data-widget_type="vehica_simple_menu_general_widget.default">
+				<div class="elementor-widget-container">
+			<div class="vehica-simple_menu vehica-simple-menu--vertical">
+    <div id="vehica-simple-container-1" class="menu-main-menu-container"><ul class="vehica-simple-menu"><li id="menu-item-22730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-22730"><a href="https://autosallonialberti.net/">Home</a></li>
+<li id="menu-item-18307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1535 current_page_item menu-item-18307"><a href="https://autosallonialberti.net/kush-jemi/" aria-current="page">Për ne</a></li>
+<li id="menu-item-18298" class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-18298"><a href="https://autosallonialberti.net/search/">Veturat</a></li>
+<li id="menu-item-17571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17571"><a href="https://autosallonialberti.net/meet-the-team/">Administratë</a></li>
+<li id="menu-item-18309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18309"><a href="https://autosallonialberti.net/kontakti/">Kontakti</a></li>
+</ul></div></div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5531616a" data-id="5531616a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b2ee6d4 elementor-widget elementor-widget-vehica_short_info_general_widget" data-id="b2ee6d4" data-element_type="widget" data-settings="{&quot;vehica_short_info_text_align_mobile&quot;:&quot;center&quot;,&quot;vehica_short_info_text_align_tablet&quot;:&quot;left&quot;}" data-widget_type="vehica_short_info_general_widget.default">
+				<div class="elementor-widget-container">
+			    <div class="vehica-short-info">
+        <div class="vehica-short-info__inner">
+            Ne ofrojmë gjithçka që ju nevojitet klienteve tanë, në fushën e automobilizmit.        </div>
+    </div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3a9bdaca" data-id="3a9bdaca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1ddb6b6 elementor-widget elementor-widget-vehica_phone_general_widget" data-id="1ddb6b6" data-element_type="widget" data-settings="{&quot;vehica_phone_text_align&quot;:&quot;right&quot;,&quot;vehica_phone_text_align_tablet&quot;:&quot;right&quot;,&quot;vehica_phone_text_align_mobile&quot;:&quot;center&quot;}" data-widget_type="vehica_phone_general_widget.default">
+				<div class="elementor-widget-container">
+			    <div class="vehica-phone">
+        <div class="vehica-phone-v2">
+            <a class="vehica-phone-highlight" href="tel:+38344435435"><span>+383</span> 44 435 435</a>
+        </div>
+    </div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-3f2b57c elementor-widget elementor-widget-vehica_email_general_widget" data-id="3f2b57c" data-element_type="widget" data-settings="{&quot;vehica_email_text_align&quot;:&quot;right&quot;,&quot;vehica_email_text_align_mobile&quot;:&quot;center&quot;}" data-widget_type="vehica_email_general_widget.default">
+				<div class="elementor-widget-container">
+			    <div class="vehica-email">
+        <a href="mailto:info@autosallonialberti.net">
+            
+            info@autosallonialberti.net        </a>
+    </div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-4ee83ad elementor-widget elementor-widget-vehica_address_general_widget" data-id="4ee83ad" data-element_type="widget" data-settings="{&quot;vehica_address_text_align&quot;:&quot;right&quot;,&quot;vehica_address_text_align_tablet&quot;:&quot;right&quot;,&quot;vehica_address_text_align_mobile&quot;:&quot;center&quot;}" data-widget_type="vehica_address_general_widget.default">
+				<div class="elementor-widget-container">
+			    <div class="vehica-address">
+        <a href="https://maps.google.com/?q=Magjistralja+Prishtin%C3%AB+-+Ferizaj%2C+Rr.+%C3%87agllavic%C3%AB%0D%0A" target="_blank">
+            <span>Magjistralja Prishtinë - Ferizaj, Rr. Çagllavicë
+</span>
+        </a>
+    </div>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-31954921 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="31954921" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 26-06-2023 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4cdfa90e elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4cdfa90e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5aeda116" data-id="5aeda116" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-600f994 elementor-widget elementor-widget-vehica_copyrights_general_widget" data-id="600f994" data-element_type="widget" data-settings="{&quot;vehica_copyrights_text_align_mobile&quot;:&quot;center&quot;,&quot;vehica_copyrights_text_align_tablet&quot;:&quot;left&quot;}" data-widget_type="vehica_copyrights_general_widget.default">
+				<div class="elementor-widget-container">
+			    <div class="vehica-copyrights">
+        Copyright © 2023. All rights reserved.    </div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2ffd297e" data-id="2ffd297e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8373b2d elementor-widget elementor-widget-vehica_social_profiles_general_widget" data-id="8373b2d" data-element_type="widget" data-settings="{&quot;vehica_social_profiles_text_align&quot;:&quot;right&quot;,&quot;vehica_social_profiles_text_align_mobile&quot;:&quot;center&quot;,&quot;vehica_social_profiles_text_align_tablet&quot;:&quot;right&quot;}" data-widget_type="vehica_social_profiles_general_widget.default">
+				<div class="elementor-widget-container">
+			<div class="vehica-social-profiles">
+            <div class="vehica-social-profiles__v1">
+                            <div class="vehica-social-icon">
+                    <a href="https://www.facebook.com/AutoSalloniAlberti/" title="Facebook" target="_blank">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                </div>
+            
+            
+                            <div class="vehica-social-icon">
+                    <a href="https://www.instagram.com/autosallonialberti/" title="Instagram" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            
+            
+                    </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-694d1cf elementor-widget elementor-widget-spacer" data-id="694d1cf" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<template id="tp-language" data-tp-language="sq"></template>            <div><div class="vue-portal-target"></div></div>
+            <div><!----></div><div class="vehica-background-accent-v1"></div>        <div id="trp-floater-ls" onclick="" data-no-translation="" class="trp-language-switcher-container trp-floater-ls-codes trp-top-right trp-color-dark short-names">
+            <div id="trp-floater-ls-current-language" class="">
+
+                <a href="https://autosallonialberti.net/kush-jemi/#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()">
+					SQ				</a>
+
+            </div>
+            <div id="trp-floater-ls-language-list" class="">
+
+                <div class="trp-language-wrap" style="padding: 10px;"><a href="https://autosallonialberti.net/kush-jemi/#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()">SQ</a>                    <a href="https://autosallonialberti.net/en/kush-jemi/" title="English">
+          						  EN					          </a>
+                </div>            </div>
+        </div>
+
+    
+        <div class="bnav_bottom_nav_wrapper">
+            <div class="bnav_placeholder_outter_wrap">
+                <div class="bnav_sub_menu_wrapper"></div>
+                            </div>
+            <div class="bnav_main_menu_container"><ul id="menu-stickymenu" class="bnav_main_menu"><li id="menu-item-23200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-23200"><a href="https://autosallonialberti.net/"><div class="bnav_menu_items "><div class="bnav_flex"><div class="icon_wrapper normal"><i class="fas fa-home"></i></div><div class="icon_wrapper active"><i class="fas fa-home"></i></div><div class="text_wrapper">Home</div></div></div></a></li>
+<li id="menu-item-23203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23203"><a href="https://autosallonialberti.net/search/"><div class="bnav_menu_items "><div class="bnav_flex"><div class="icon_wrapper normal"><i class="fas fa-car"></i></div><div class="icon_wrapper active"><i class="fas fa-car"></i></div><div class="text_wrapper">Veturat</div></div></div></a></li>
+<li id="menu-item-23201" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1535 current_page_item menu-item-23201"><a href="https://autosallonialberti.net/kush-jemi/" aria-current="page"><div class="bnav_menu_items "><div class="bnav_flex"><div class="icon_wrapper normal"><i class="fas fa-info-circle"></i></div><div class="icon_wrapper active"><i class="fas fa-info-circle"></i></div><div class="text_wrapper">Për ne</div></div></div></a></li>
+<li id="menu-item-23202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23202"><a href="https://autosallonialberti.net/kontakti/"><div class="bnav_menu_items "><div class="bnav_flex"><div class="icon_wrapper normal"><i class="fas fa-phone-alt"></i></div><div class="icon_wrapper active"><i class="fas fa-phone-alt"></i></div><div class="text_wrapper">Kontakti</div></div></div></a></li>
+</ul></div>        </div>
+        <div class="bnav_overlay_close_all"></div>
+    <script type="text/javascript" src="./work_files/index.js.download" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/autosallonialberti.net\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./work_files/index(1).js.download" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./work_files/wp-bnav-public.js.download" id="wp-bnav-js"></script>
+<script type="text/javascript" src="./work_files/swiper.min.js.download" id="swiper-js"></script>
+<script type="text/javascript" src="./work_files/sweetalert2.min.js.download" id="sweetalert2-js"></script>
+<script type="text/javascript" id="vehica-elements-js-extra">
+/* <![CDATA[ */
+var Vehica = {"currentCurrency":{"id":2316,"key":"vehica_2316","name":"Euro","slug":"mc_currency_81853","sign":"\u20ac","signPosition":"before","format":"###,###,###","displayFormat":"100,000,000","decimal_separator":"","thousands_separator":",","decimal_places":0},"currencies":[{"id":2316,"key":"vehica_2316","name":"Euro","slug":"mc_currency_81853","sign":"\u20ac","signPosition":"before","format":"###,###,###","displayFormat":"100,000,000","decimal_separator":"","thousands_separator":",","decimal_places":0}],"ajaxUrl":"https:\/\/autosallonialberti.net\/wp-admin\/admin-ajax.php","carsApiEndpoint":"https:\/\/autosallonialberti.net\/wp-json\/vehica\/v1\/cars","mobileBreakpoint":"898","tabletBreakpoint":"1198"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./work_files/elements.min.js.download" id="vehica-elements-js"></script>
+<script type="text/javascript" src="./work_files/webpack.runtime.min.js.download" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="./work_files/frontend-modules.min.js.download" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="./work_files/waypoints.min.js.download" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="./work_files/core.min.js.download" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":900,"lg":1200,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":899,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1199,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"https:\/\/autosallonialberti.net\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"viewport_mobile":899,"viewport_tablet":1199,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1535,"title":"About%20us%20-%20Auto%20Salloni%20Alberti","excerpt":"","featuredImage":false}};
+</script>
+<script type="text/javascript" src="./work_files/frontend.min.js.download" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+
+</body></html>
