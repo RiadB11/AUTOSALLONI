@@ -156,7 +156,7 @@
 }
 
 .foto1 {
-        background-image: url("photos/fotoja.png");
+        background-image: url("photos/bugati.png");
         min-height: 700px;
         background-attachment: fixed;
         background-position: center;
@@ -228,7 +228,7 @@
 .p-container{
         display: flex;
         justify-content: space-around;
-        flex-wrap: wrap; /* Lejon*/
+        flex-wrap: wrap; 
         margin-top: 100px;       
         
 }
@@ -236,10 +236,10 @@
 
 
 .button input {  
-    width: 380px; /* Përshembull, përcaktoni gjërësinë sipas dëshirës tuaj */
-    height: 40px; /* Përshembull, përcaktoni lartësinë sipas dëshirës tuaj */
-    padding: 22px; /* Për të shtuar hapësirë brenda input-it */
-    font-size: 16px; /* Për të përcaktuar madhësinë e tekstit brenda input-it */
+    width: 380px; 
+    height: 40px; 
+    padding: 22px;
+    font-size: 16px; 
 }
 
 .button button {
@@ -282,13 +282,13 @@
 
 
 .copyright {
-    background-color: #333; /* Cakto ngjyrën e background-it të tekstit të të drejtave të rezervuara */
-    color: #fff; /* Cakto ngjyrën e tekstit */
-    padding: 10px 40px; /* Shtoni padding sipas preferencave tuaja */
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px 40px; 
     
-    text-align: left; /* Qendro tekstin në qendër */
+    text-align: left; 
 }
- /*per ne*/
+ 
 
  .text{
     
@@ -337,18 +337,17 @@
 
 .input-container {
     width: 35%; 
-    padding: 20px 20px;
+    padding: 20px 60px;
     min-height: 52px;
     border-radius: 10px;
     font-size: 14px;
-    box-shadow: 1px 1px 0 0 rgba(0, 0, 0, 0.1); /* Box shadow e errët */
+    box-shadow: 1px 1px 0 0 rgba(0, 0, 0, 0.1); 
     border: 1px solid #e7edf3;
     margin-top: 50px;
     margin-right: 12.0em;
     background-color: #EFF3FA;
     text-align: center;
    
-    
 }
     
 
@@ -361,19 +360,32 @@ input {
 }
 
 
-.styled-button {
-    padding: 15px 20px; /* Shto ngjyrat në pikselë sipas preferencave tuaja */
-    font-size: 16px;
-    padding: 12px 40px;
-    background-color:  white;
-    color: #F0F3F4; /* Ngjyra e tekstit */
-    border: none;
-    border-radius: 9px;
-    cursor: pointer;
-    
+
+/*.input-container{
+    display: flex;
+    min-height: 53px;
+    border-radius: 10px;
+    width: 50%;
+    padding: 10px 27px;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+    background-color: rgba(248, 248, 255);
+    border: 1px solid #3c00a0;
+}*/
+
+
+
+.button-group {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between; /* Ose një tjetër vlerë sipas preferencave tuaja */
 }
 
-
+.button-group input {
+    border: 1px solid black;
+    border-radius: 7px;
+}
 
 .styled-button.special-text {
     color: #000; /* Ngjyra e zeza e tekstit për klasën "special-text" */
@@ -396,6 +408,7 @@ input {
 #w3review{
     border-radius: 10px;
     resize: vertical;
+    
 }
 
 *{
@@ -514,7 +527,7 @@ form p a{
 
 .admini-photo img{
     width: 100%;
-    height: 500px;
+    height: 450px;
     filter: brightness(50%);
     
    
@@ -536,6 +549,8 @@ form p a{
     float: right;
     width: 40%;
     padding: 20px;
+    padding-block: 70px;
+
     
 }
 
@@ -546,10 +561,51 @@ form p a{
 
 .text2{
     text-align: center;
+    padding-block: 70px;
 }
 
 .bottom-text {
     text-align: center;
     margin-top: 100px; 
     float: left;
+}
+
+
+.footeri {
+    position: relative;
+    width: 100%;
+ 
+   
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+
+    .icon-container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .meny {
+        
+        align-items: center;
+    }
+
+    .meny a {
+        float: none;
+        display: block;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
+
+@media (max-width: 768px){
+    .icons{
+        flex-direction: column;
+        text-align: center;
+    }
 }
