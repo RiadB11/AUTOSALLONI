@@ -588,24 +588,5 @@ form p a{
     }
 }
 
-@media (max-width: 768px) {
-    .meny {
-        
-        align-items: center;
-    }
 
-    .meny a {
-        float: none;
-        display: block;
-        text-align: center;
-        width: 100%;
-        box-sizing: border-box;
-    }
-}
 
-@media (max-width: 768px){
-    .icons{
-        flex-direction: column;
-        text-align: center;
-    }
-}
