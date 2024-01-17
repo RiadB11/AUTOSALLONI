@@ -156,7 +156,11 @@
 }
 
 .foto1 {
+<<<<<<< HEAD
         background-image: url("photos/bugati.png");
+=======
+        background-image: url("photos/bugatti.png");
+>>>>>>> c6a8fe78be8d907b615789cdd035aff92f8b5a9c
         min-height: 700px;
         background-attachment: fixed;
         background-position: center;
@@ -588,6 +592,7 @@ form p a{
     }
 }
 
+<<<<<<< HEAD
 @media (max-width: 768px) {
     .meny {
         
@@ -609,3 +614,7 @@ form p a{
         text-align: center;
     }
 }
+=======
+
+
+>>>>>>> c6a8fe78be8d907b615789cdd035aff92f8b5a9c
