@@ -7,17 +7,18 @@
 
 .meny {
     display: flex;
-    flex-direction: column; /* Ndërro drejtimin e flexbox në vertikal */
+    flex-direction: row; /* NdÃ«rro drejtimin e flexbox nÃ« vertikal */
     background-color: #333;
-    padding: 43px 0px;
+    padding: 20px;
     font-size: 18px;
-    cursor: pointer;
-    
+    align-items: center;
+    justify-content: space-between;
+    /* cursor: pointer; */
 }
 
 .meny-top {
-    background-color: black; /* Ngjyra e pjesshme të sipërme */
-    padding: 5px 0px; /* Hapësira në drejtimin vertikal */
+    background-color: black; /* Ngjyra e pjesshme tÃ« sipÃ«rme */
+    padding: 5px 0px; /* HapÃ«sira nÃ« drejtimin vertikal */
 }
 
 .meny ul {
@@ -42,7 +43,7 @@
 }
 
 .meny a {
-    text-decoration: none; /* Largimi i vijës perfunduese */
+    text-decoration: none; /* Largimi i vijÃ«s perfunduese */
     color: white; /* Ngjyra e tekstit */
 }
 
@@ -64,22 +65,16 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Ngjyra e errët e overlay me një ndjeshmëri të zbehtë */
-    pointer-events: none; /* Kjo e bën të mundur që klikimet të kalojnë nën overlay */
+    background-color: rgba(0, 0, 0, 0.5); /* Ngjyra e errÃ«t e overlay me njÃ« ndjeshmÃ«ri tÃ« zbehtÃ« */
+    pointer-events: none; /* Kjo e bÃ«n tÃ« mundur qÃ« klikimet tÃ« kalojnÃ« nÃ«n overlay */
 }
 
 
 
-.foto3 img{
-    position: absolute;
-    top: 10px; /* Përshtatni sipas dëshirës suaj për pozicionin vertikal */
+.meny img{
     width: 90px;
-    float: right;
     color: black;
-    margin-left: 350px;
-    margin-top: 15px;
     border-radius: 50%;
- 
 }
 
 .h11 {
@@ -156,16 +151,13 @@
 }
 
 .foto1 {
-<<<<<<< HEAD
-        background-image: url("photos/bugati.png");
-=======
-        background-image: url("photos/bugatti.png");
->>>>>>> c6a8fe78be8d907b615789cdd035aff92f8b5a9c
-        min-height: 700px;
-        background-attachment: fixed;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
+     background-image: url("photos/bugati.png");
+     background-image: url("photos/bugatti.png");
+     min-height: 700px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
 }
 
 .footer h1{
@@ -204,7 +196,7 @@
 .icons i {
     font-size: 41px;
     color: red;
-    padding: 0 200px; /* Hapësira midis ikonave */
+    padding: 0 200px; /* HapÃ«sira midis ikonave */
     margin-top: 12px;
     
 }
@@ -325,13 +317,13 @@
 
  .contact-container {
     display: flex;
-    justify-content: space-between; /* Vendos elementet në anën e majtë dhe të djathtë të kontejnerit */
-    align-items: flex-start; /* Ndalon që elementet të qendrojnë në një linjë horizontale të njëjtë */
+    justify-content: space-between; /* Vendos elementet nÃ« anÃ«n e majtÃ« dhe tÃ« djathtÃ« tÃ« kontejnerit */
+    align-items: flex-start; /* Ndalon qÃ« elementet tÃ« qendrojnÃ« nÃ« njÃ« linjÃ« horizontale tÃ« njÃ«jtÃ« */
 
 }
 
 .contact-info1 {
-    flex: 1; /* Merr pjesën më të madhe të hapësirës së disponueshme */
+    flex: 1; /* Merr pjesÃ«n mÃ« tÃ« madhe tÃ« hapÃ«sirÃ«s sÃ« disponueshme */
     margin-left: 60px;
     font-size: 20px;
     
@@ -383,7 +375,7 @@ input {
 .button-group {
     display: flex;
     gap: 20px;
-    justify-content: space-between; /* Ose një tjetër vlerë sipas preferencave tuaja */
+    justify-content: space-between; /* Ose njÃ« tjetÃ«r vlerÃ« sipas preferencave tuaja */
 }
 
 .button-group input {
@@ -392,7 +384,7 @@ input {
 }
 
 .styled-button.special-text {
-    color: #000; /* Ngjyra e zeza e tekstit për klasën "special-text" */
+    color: #000; /* Ngjyra e zeza e tekstit pÃ«r klasÃ«n "special-text" */
     margin-right: 10px;
 }
 
@@ -463,17 +455,7 @@ input {
     transform: translateX(-50%);
 }
 
-.input-field{
-    background: #eaeaea;
-    margin: 15px 0;
-    border-radius: 3px;
-    display: flex;
-    align-items: center;
-    max-height: 65px;
-    transition: max-height 0.5s;
-    overflow: hidden;
 
-}
 
 input{
     width: 100%;
@@ -486,6 +468,12 @@ input{
 .input-field i{
     margin-left: 15px;
     color: #999;
+}
+
+.ikona {
+    color: white;
+    font-size: 30px;
+    display: none;
 }
 
 form p{
@@ -583,20 +571,17 @@ form p a{
 }
 
 @media (max-width: 768px) {
+    .meny {
+        align-items: center;
+        position: relative;
+    }
+
     .container {
         width: 100%;
     }
 
     .icon-container {
         width: 100%;
-    }
-}
-
-<<<<<<< HEAD
-@media (max-width: 768px) {
-    .meny {
-        
-        align-items: center;
     }
 
     .meny a {
@@ -606,15 +591,26 @@ form p a{
         width: 100%;
         box-sizing: border-box;
     }
-}
-
-@media (max-width: 768px){
     .icons{
         flex-direction: column;
         text-align: center;
     }
+
+    .ikona {
+        display: block;
+    }
+
+    .meny ul{
+        flex-direction: column;
+        position: absolute;
+        z-index: 2;
+        top: 100px;
+        gap: 30px;
+        background-color: #333;
+        width: 100%;
+        left: 0;
+        height: 600px;
+    }
 }
-=======
 
 
->>>>>>> c6a8fe78be8d907b615789cdd035aff92f8b5a9c
