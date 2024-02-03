@@ -40,24 +40,21 @@
         <h2 style="text-align: center;">Disa nga veturat</h2>
         
         <div class="cars_card">
-            
-        <?php foreach($cars as $car) : ?>
-            <div class="car_container">
-                <img src="photos/<?=$car['foto']?>" class="car_photo" alt="<?=$car['emri']?>">
-                <div class="cards_holder">
-                    <div class="car_card">
-                        <img src="photos/logoja.png" />
-                        <a href="car.php?id=<?=$car['id']?>"><?=$car['emri']?></a>
-                    </div>
-                    <hr>
-                    <div class="second_car_card">
-                        <p><?=$car['viti']?></p>
-                        <p><?=$car['kilometrazhi']?> km</p>
+            <?php foreach($cars as $car) : ?>
+                <div class="car_container">
+                    <img src="photos/<?=$car['foto']?>" class="car_photo" alt="<?=$car['emri']?>">
+                    <div class="cards_holder">
+                        <div class="car_card">
+                            <a href="car.php?id=<?=$car['id']?>"><?=$car['emri']?></a>
+                        </div>
+                        <hr>
+                        <div class="second_car_card">
+                            <p><?=$car['viti']?></p>
+                            <p><?=$car['kilometrazhi']?> km</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-        <?php endforeach; ?>
-            
+            <?php endforeach; ?>
         </div>
     </div>
     
@@ -89,7 +86,6 @@
     </div>
 
     <div class="footer">
-
         <div class="p-car_container">
             <p style="font-size: 38px;">Newsletter</p>
             <div class="button">
@@ -129,8 +125,7 @@
         <p class="copyright">Copyright © 2023. All rights reserved.</p>
         
      </div>
+
+    <script src="js/slider.js"></script>
     </body>
 </html>
-
-<script src="js/slider.js"></script>
-<script src="js/sidebar.js"></script>

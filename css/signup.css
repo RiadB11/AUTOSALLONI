@@ -4,8 +4,18 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-   
-    
+}
+
+.errors_div p{
+   color: red;
+   margin: 5px;
+   padding: 0;
+}
+
+.errors_div {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
 }
 
 .signup-box{

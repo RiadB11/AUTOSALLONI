@@ -23,7 +23,7 @@
     }
 ?>
 
-<form action="<?=$_SERVER['PHP_SELF']?>?id=<?=$_GET['id']?>" method="POST">
-    <input type="number" name="newbalance" placeholder="New balance">
-    <button name="ndryshobilancin">Ndrysho bilancin</button>
+<form action="<?=$_SERVER['PHP_SELF']?>?id=<?=$_GET['id']?>" method="POST" class="forma_ndryshobalancin">
+    <input type="number" name="newbalance" placeholder="New balance" class="newbalance">
+    <button name="ndryshobilancin" class="ndryshobalancin">Ndrysho bilancin</button>
 </form>

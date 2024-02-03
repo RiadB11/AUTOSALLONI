@@ -5,7 +5,7 @@
     class UserRepository {
         private $conn = null;
 
-        public function __construct($conn) { // dmth qitu n konstruktor e pranojm connection edhe ksaj variables qe e kem nalt ja jepum vleren qe na vjen ktu nalt, a pe din qe qito sjon t njejta po se ksaj ja kemi jep null, op edhe kta qe e kem ktu e pranojm veq kur krijohet instanca, ky osht parameter
+        public function __construct($conn) { // dmth qitu n konstruktor e pranojm connection edhe ksaj variables qe e kem nalt ja jepum vleren qe na vjen ktu nalt, a pe din qe qito sjon t njejta po se ksaj ja kemi jep null,  edhe kta qe e kem ktu e pranojm veq kur krijohet instanca, ky osht parameter
             $this->conn = $conn;
         }
         

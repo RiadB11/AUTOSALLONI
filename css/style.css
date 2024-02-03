@@ -7,7 +7,7 @@
 
 .meny {
     display: flex;
-    flex-direction: row; /* NdÃƒÂ«rro drejtimin e flexbox nÃƒÂ« vertikal */
+    flex-direction: row; 
     background-color: #333;
     padding: 20px;
     font-size: 18px;
@@ -17,8 +17,8 @@
 }
 
 .meny-top {
-    background-color: black; /* Ngjyra e pjesshme tÃƒÂ« sipÃƒÂ«rme */
-    padding: 5px 0px; /* HapÃƒÂ«sira nÃƒÂ« drejtimin vertikal */
+    background-color: black; 
+    padding: 5px 0px;
 }
 
 .meny ul {
@@ -43,8 +43,8 @@
 }
 
 .meny a {
-    text-decoration: none; /* Largimi i vijÃƒÂ«s perfunduese */
-    color: white; /* Ngjyra e tekstit */
+    text-decoration: none; 
+    color: white; 
 }
 
 
@@ -254,25 +254,27 @@
 /* newsletter section here */
 .p-car_container {
     display: flex;
+    width: 100%;
     justify-content: space-around;
 }
 
-.button input {  
-    width: 380px; 
-    height: 40px; 
+.button input {
+    width: 380px;
+    height: 40px;
     padding: 22px;
-    font-size: 16px; 
+    font-size: 16px;
     border: 1px solid grey;
     border-radius: 9px;
 }
 
 .button button {
     background-color: #FF4500;
-    padding: 13px 35px;
+    padding: 12px 42px;
+    /* width: fit-content; */
     border-radius: 9px;
     cursor: pointer;
     border: 1px solid #FF4500;
-    font-size: 16px; 
+    font-size: 16px;
 }
 
 /* end of newsletter */
@@ -312,64 +314,64 @@ text-align: center;
     text-align: left; 
 }
 
+.titulli {
+    text-align: center;
+    padding-block: 20px;
+}
 
 .text{    
-    margin-left: 50px;
-    border-left: 5px solid red;
-    padding-left: 10px;
-    
- }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    padding-inline: 100px;
+}
 
- .text .no-border-left{
-    border-left: 5px solod red;
-    
- }
-
- .no-border-left {
-    margin-left: 56px;
-    
- }
-
- .no-border-left p{
-    border-left: 5px solid red;
- }
+.text div p{
+    line-height: 35px;    
+}
 
  .text img{
-    width: 50%;
-    margin-right: 50px;
+    width: 100%;
     border-radius: 50px;
  }
 
+ .text div{
+    text-align: center;
+ }
 
  .contact-container {
     display: flex;
-    justify-content: space-between; /* Vendos elementet nÃƒÂ« anÃƒÂ«n e majtÃƒÂ« dhe tÃƒÂ« djathtÃƒÂ« tÃƒÂ« kontejnerit */
-    align-items: flex-start; /* Ndalon qÃƒÂ« elementet tÃƒÂ« qendrojnÃƒÂ« nÃƒÂ« njÃƒÂ« linjÃƒÂ« horizontale tÃƒÂ« njÃƒÂ«jtÃƒÂ« */
-
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 30px;
 }
 
 .contact-info1 {
-    flex: 1; /* Merr pjesÃƒÂ«n mÃƒÂ« tÃƒÂ« madhe tÃƒÂ« hapÃƒÂ«sirÃƒÂ«s sÃƒÂ« disponueshme */
-    margin-left: 60px;
+    /* flex: 1; */ 
     font-size: 20px;
-    
-   
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 
 .input-container {
-    width: 35%; 
-    padding: 20px 60px;
+    /* width: 35%; */
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    /* padding: 20px 60px; */
     min-height: 52px;
     border-radius: 10px;
     font-size: 14px;
-    box-shadow: 1px 1px 0 0 rgba(0, 0, 0, 0.1); 
+    box-shadow: 1px 1px 0 0 rgba(0, 0, 0, 0.1);
     border: 1px solid #e7edf3;
-    margin-top: 50px;
-    margin-right: 12.0em;
     background-color: #EFF3FA;
     text-align: center;
-   
 }
     
 
@@ -399,7 +401,7 @@ input {
 .button-group {
     display: flex;
     gap: 20px;
-    justify-content: space-between; /* Ose njÃƒÂ« tjetÃƒÂ«r vlerÃƒÂ« sipas preferencave tuaja */
+    justify-content: space-between; 
 }
 
 .button-group input {
@@ -408,19 +410,18 @@ input {
 }
 
 .styled-button.special-text {
-    color: #000; /* Ngjyra e zeza e tekstit pÃƒÂ«r klasÃƒÂ«n "special-text" */
+    color: #000; 
     margin-right: 10px;
 }
 
 .style-button{
     font-size: 16px;
     padding: 16px 40px;
-    background-color: red; /* Ngjyra e tekstit */
-    color: white;
+    background-color: red;
+    color: white; /* Ngjyra e tekstit */
     float: right;
     border: none;
     border-radius: 12px;
-    margin-right: 15px;
     cursor: pointer;
     
 }
@@ -576,7 +577,9 @@ form p a{
 
 .bottom-text {
     text-align: center;
-    margin-top: 100px; 
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-left: 30px;
     float: left;
 }
 
@@ -584,18 +587,67 @@ form p a{
 .footeri {
     position: relative;
     width: 100%;
- 
-   
 }
 
-@media (max-width: 768px) {
+.form_holder {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.content_contact {
+    padding: 10px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: transparent;
+}
+
+.newbalance {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.ndryshobalancin {
+    background-color: cornflowerblue;
+    color: white;
+    border: 0;
+    padding: 12px 0px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.forma_ndryshobalancin {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+
+@media (max-width: 850px) {
     .meny {
         align-items: center;
         position: relative;
     }
 
+    .contact-container {
+        flex-direction: column;
+        gap: 40px;
+        padding: 100px 30px;
+    }
+
+    .contact-info1 {
+        align-items: center;
+    }
+
     .icon-container {
         width: 100%;
+    }
+
+    .text{    
+        padding-inline: 30px;
     }
 
     .meny a {
@@ -652,7 +704,7 @@ form p a{
         flex-direction: column;
     }
 
-    .footer ul {
+    .footeri ul {
         list-style: none;
     }
 

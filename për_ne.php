@@ -1,3 +1,7 @@
+<?php
+    include 'navbar.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,68 +13,24 @@
 
     <title>Për Ne</title>
 
-    <!-- Include the menu script -->
+
     <script src="menu.js"></script>
 </head>
 
 <body>
-    <!-- Header -->
-    <header>
-        <div class="meny">
-            <img src="photos/logo5.png" alt="logo">
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="për_ne.php">Për ne</a></li>
-                <li><a href="veturat.php">Veturat</a></li>
-                <li><a href="administrata.php">Administratë</a></li>
-                <li><a href="kontakti.php">Kontakti</a></li>
-                <li><a href="login.php">Log in</a></li>
-            </ul>
-       </div>
-    </header>
     <br>
-    <h1 style="margin-left: 50px;">KUSH JEMI NE</h1>
+    <h1 class="titulli">KUSH JEMI NE</h1>
     <br>
     
     <div class="text">
-   <p>
-    <img src="photos/photo.png" alt="photo" style="float: right; ">
-    Kompania Riadi është themeluar në vitin 2000 nga Riad Bozhlani nga Vushtrria.</p>
-    <p>Gjatë dy viteve punë intensive, në dhjetor të vitit 2011, u hap salloni,</p>
-    <p>qendra e shitjes së veturave në Prishtinë.</p>
-    <p>Puna jonë krijon besim dhe besueshmëri me klientët tanë dhe qëllimi ynë është t’u</p>
-    <p>ofrojmë klientëve tanë makinën më të mirë me çmimin më të përballueshëm.</p>
-    <br>
-    <p>Si filluam</p>
-    <br>
-    <p>Kompania Auto Sallon Riadi është themeluar në vitin 2000 nga vëllezërit Bozhlani</p>
-    <p>nga Vushtrria, në fillim kompania merrej me shitblerje të veturave,</p>
-    <p>në atë kohë veturat më të shitura ishin veturat e prodhimit gjerman.</p>
-    <p>Rrugëtimi ynë</p>
-    <br>
-    <p>Pas një analize të fizibilitetit nga ana ekspertëve, menaxhmenti i kompanisë vendosi</p>
-    <p>që në vitin 2009 të transferohet me seli në Prishtinë, Gjatë dy viteve të punimeve</p>
-    <p>intensive, ne dhjetor të vitit 2011, hapet salloni, qendra për shitjen e automjeteve në</p>
-    <p>Prishtinë. Një objekt impozant dhe ultramodern me të gjitha e kësaj veprimtarie, ku</p>
-    <p>ofrohen edhe shërbimet e servisimit nga ana e stafit të palodhshëm dhe profesional,</p>
-    <p>me aparaturë bashkëkohore si dhe me Auto pjesë origjinale nga prodhuesit evropian</p>
-    <p>dhe botëror. Gjithashtu, në dispozicion është edhe restaurant-bar në shërbim të</p>
-    <p>klientëve. Sot, kompania bën shitjen e prodhimeve të të gjithë prodhuesve kryesorë</p>
-    <p>evropiane dhe botëror të veturave.</p>
-    <p>Misioni dhe Vizioni</p>
-    <br>
-    <p>Puna jonë ndërton urën dhe besueshmërinë ndaj klientëve tanë, dhe qëllimi ynë</p>
-    <p>është t’i ofrojmë klientit tanë makinën më të mirë me çmimin më të volitshëm. Ne</p>
-    <p>jemi një kompani lidere e shitjes së automjeteve në Kosovë.</p>
-    <br>
-    <p>Pse duhet të na zgjidhëni ne</p>  
-    <p>Sepse, 99% të klientëve tanë kthehen përsëri tek ne, për të blerë veturë pas blerjes</p>  
-    <p>së parë. Pra, ne jemi këtu për t’ju bërë të zgjidhni më të mirën, me çmime të</p>
-    <p>volitshme. Ne u mundësojmë klientëve të zgjedhin automjetin e tyre të ardhshëm</p>
-    <p>përmes faqes sonë të internetit, ose përmes rrjeteve sociale, ose të na vizitojnë në</p>
-    <p>qendrën tonë. Ju jeni ata që do të ktheheni tek ne gjithmonë të kënaqur.</p>
-    
-    
+   <img src="photos/photo.png" alt="photo" style="float: right; ">
+    <div>
+        <p>
+        Kompania Riadi është themeluar në vitin 2000 nga Riad Bozhlani nga Vushtrria. Gjatë dy viteve punë intensive, në dhjetor të vitit 2011, u hap salloni, qendra e shitjes së veturave në Prishtinë. Puna jonë krijon besim dhe besueshmëri me klientët tanë dhe qëllimi ynë është t’u ofrojmë klientëve tanë makinën më të mirë me çmimin më të përballueshëm. Si filluam Kompania Auto Sallon Riadi është themeluar në vitin 2000 nga vëllezërit Bozhlani nga Vushtrria, në fillim kompania merrej me shitblerje të veturave, në atë kohë veturat më të shitura ishin veturat e prodhimit gjerman. Rrugëtimi ynë Pas një analize të fizibilitetit nga ana ekspertëve, menaxhmenti i kompanisë vendosi që në vitin 2009 të transferohet me seli në Prishtinë, Gjatë dy viteve të punimeve intensive, ne dhjetor të vitit 2011, hapet salloni, qendra për shitjen e automjeteve në Prishtinë. Një objekt impozant dhe ultramodern me të gjitha e kësaj veprimtarie, ku ofrohen edhe shërbimet e servisimit nga ana e stafit të palodhshëm dhe profesional, me aparaturë bashkëkohore si dhe me Auto pjesë origjinale nga prodhuesit evropian dhe botëror. Gjithashtu, në dispozicion është edhe restaurant-bar në shërbim të klientëve. Sot, kompania bën shitjen e prodhimeve të të gjithë prodhuesve kryesorë evropiane dhe botëror të veturave. Misioni dhe Vizioni Puna jonë ndërton urën dhe besueshmërinë ndaj klientëve tanë, dhe qëllimi ynë është t’i ofrojmë klientit tanë makinën më të mirë me çmimin më të volitshëm. Ne jemi një kompani lidere e shitjes së automjeteve në Kosovë. Pse duhet të na zgjidhëni ne Sepse, 99% të klientëve tanë kthehen përsëri tek ne, për të blerë veturë pas blerjes së parë. Pra, ne jemi këtu për t’ju bërë të zgjidhni më të mirën, me çmime të volitshme. Ne u mundësojmë klientëve të zgjedhin automjetin e tyre të ardhshëm përmes faqes sonë të internetit, ose përmes rrjeteve sociale, ose të na vizitojnë në qendrën tonë. Ju jeni ata që do të ktheheni tek ne gjithmonë të kënaqur.
+
+        </p>
+    </div>
+   
  </div>
 <br>
 <br>
@@ -79,7 +39,7 @@
 
    
 
-    <!-- Include the menu script në fund të trupit të faqes -->
+   
     
     <footer class="footeri">
            

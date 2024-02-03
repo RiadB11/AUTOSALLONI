@@ -17,6 +17,7 @@
     <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="për_ne.php">Për ne</a></li>
+        <li><a href="dashboard.php">Dashboard</a></li>
         <li><a href="veturat.php">Veturat</a></li>
         <li><a href="administrata.php">Administratë</a></li>
         <li><a href="kontakti.php">Kontakti</a></li>
@@ -29,3 +30,5 @@
 
     <i class="fas fa-bars ikona"></i>
 </div>
+
+<script src="js/sidebar.js"></script>

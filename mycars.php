@@ -22,7 +22,6 @@
                 <img src="photos/<?=$car['foto']?>" class="car_photo" alt="<?=$car['emri']?>">
                 <div class="cards_holder">
                     <div class="car_card">
-                        <img src="photos/logoja.png" />
                         <a href="car.php?id=<?=$car['id']?>"><?=$car['emri']?></a>
                     </div>
                     <hr>

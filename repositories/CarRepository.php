@@ -9,7 +9,7 @@
         }
         
         public function create(Car $car) {
-            $sql = 'INSERT INTO car(emri, kilometrazhi, viti, motorri, foto, qmimi) VALUES (?,?,?,?,?,?)';
+            $sql = 'INSERT INTO car(emri, kilometrazhi, viti, motorri, foto, qmimi, listuesi_id) VALUES (?,?,?,?,?,?,?)';
             
             $prepared = $this->conn->prepare($sql);
 
@@ -20,8 +20,9 @@
                 $motorri = $car->getMotorri();
                 $foto = $car->getFoto();
                 $qmimi = $car->getQmimi();
-                
-                $prepared->bind_param("sisssi", $emri, $kilometrazhi, $viti, $motorri, $foto, $qmimi);
+                $listuesi = $_SESSION['user_id'];
+
+                $prepared->bind_param("sisssii", $emri, $kilometrazhi, $viti, $motorri, $foto, $qmimi, $listuesi);
             
                 $prepared->execute();
 
@@ -60,7 +61,7 @@
         }
 
         public function readLastTenUnowned() {
-            $sql = 'SELECT * FROM car WHERE owner_id is null LIMIT 10';
+            $sql = 'SELECT * FROM car WHERE owner_id is null LIMIT 9';
             
             $prepared = $this->conn->prepare($sql);
             $results = [];

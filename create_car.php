@@ -15,15 +15,19 @@
     }
 ?>
 <br>
-<form action="<?= $_SERVER['PHP_SELF'] ?>" method="post" enctype="multipart/form-data">
-    <input type="text" placeholder="emri" name="emri">
-    <input type="number" placeholder="kilometrazhi" name="kilometrazhi">
-    <input type="date" placeholder="viti" name="viti">
-    <input type="text" placeholder="motorri" name="motorri">
-    <input type="number" placeholder="qmimi" name="qmimi">
-    <input type="file" name="car_file">
-    <button type="submit">Krijo Kerrin</button>
-</form>
+
+<div class="form_holder">
+    <form action="<?= $_SERVER['PHP_SELF'] ?>" method="post" enctype="multipart/form-data">
+        <input type="text" placeholder="emri" name="emri">
+        <input type="number" placeholder="kilometrazhi" name="kilometrazhi">
+        <input type="date" placeholder="viti" name="viti">
+        <input type="text" placeholder="motorri" name="motorri">
+        <input type="number" placeholder="qmimi" name="qmimi">
+        <input type="file" name="car_file">
+        <button type="submit">Krijo Kerrin</button>
+    </form>
+</div>
+
 <style>
      
         form {

@@ -21,10 +21,6 @@
 
             $user = $repo->readByEmail($email);
 
-            if($password != $confirm) {
-                array_push($errors, 'Password and confirm password must match');
-            }
-
             if(count($user) != 0) {
                 array_push($errors, 'User exists');
             }
@@ -44,7 +40,6 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
     <title>SIgn Up</title>
-    <!-- ktu se ke ba link hiq qe me t ba -->
     <link rel="stylesheet" href="css/signup.css">
 
   </head>
@@ -52,7 +47,7 @@
 
    <div class="signup-box">
     <h1>Sign Up</h1>
-    <form action='<?= $_SERVER['PHP_SELF'] ?>' method='POST' class="signup">
+    <form action='<?= $_SERVER['PHP_SELF'] ?>' method='POST' class="registerforma">
         <label>Full Name</label>
         <input type="text" placeholder="Full Name" name="fname" class="fname">
         <label>Email</label>
@@ -66,68 +61,16 @@
         <?php foreach($errors as $error) : ?>
             <p class="error"><?php echo $error; ?></p>
         <?php endforeach; ?>
+        <div class="errors_div">
+            
+        </div>
+
         <div class="errorContainer">
 
         </div>
     </form>
    </div>
-    <script>
-        const forma = document.querySelector(".signup");
-        const errorHolder = document.querySelector(".errorContainer");
-        const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
-       forma.addEventListener("submit", function(e) {
-            clearErrors();
-            let username = e.target.fname?.value;
-            let email = e.target.email?.value;
-            let password = e.target.password?.value;
-            let confirmPassword = e.target.confirmPassword?.value;
-            let errors = [];
-
-            // Check if any field is empty and specify which one
-            if (!username) {
-                errors.push("Please fill in the Full Name field.");
-            }
-
-            if (!email) {
-                errors.push("Please fill in the Email field.");
-            } else {
-                if (!emailRegex.test(email)) {
-                    errors.push("Invalid email format. Please enter a valid email address.");
-                }
-            }
-
-            if (!password) {
-                errors.push("Please fill in the Password field.");
-            } else if (password.length < 8) {
-                errors.push("Password must be at least 8 characters.");
-            }
-
-            if (!confirmPassword) {
-                errors.push("Please fill in the Confirm Password field.");
-            } else if (password !== confirmPassword) {
-                errors.push("Passwords do not match.");
-            }
-
-            if (errors.length > 0) {
-                e.preventDefault();
-                displayErrors(errors);
-            }
-       }); 
-
-        function displayErrors(errors) {
-            for(let i = 0; i < errors.length; i++) {
-                var p = document.createElement('p');
-                p.innerHTML = errors[i];
-                p.classList.add("error");
-                errorHolder.appendChild(p);
-            }
-        }
-
-        function clearErrors() {
-            errorHolder.innerHTML = "";
-        }
-    </script>
-   
+   <script src="js/register.js"></script>
 </body>
 </html>

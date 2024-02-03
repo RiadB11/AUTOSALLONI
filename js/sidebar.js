@@ -8,7 +8,7 @@ ikona.addEventListener("click", () => {
 })
 
 window.addEventListener("resize", () => {
-    if(window.innerWidth > 768) {
+    if(window.innerWidth > 850) {
         navbarList.style.display = "flex";
     } else {
         navbarList.style.display = "none";

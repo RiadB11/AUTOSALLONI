@@ -39,18 +39,23 @@
   <body style="background-image: url('photos/gt63.jpg'); background-size: cover; background-position: center; height: 100vh;">
    <div class="login-box">
     <h1>Log In</h1>
-    <form action='<?= $_SERVER['PHP_SELF'] ?>' method='POST'>
+    <form action='<?= $_SERVER['PHP_SELF'] ?>' method='POST' class="loginform">
         <label>Email</label>
-        <input type="email" placeholder="Email" name="email">
+        <input type="email" placeholder="Email" name="email" class="email">
         <label>Password</label>
-        <input type="password" placeholder="Password" name="password">
+        <input type="password" placeholder="Password" name="password" class="password">
         <button class="button" name="login">Log In</button>
         <p class="para-2">Already have an account? <a href="signup.php">Sign Up here</a></p>
        
+        <div class="errors_div">
+            
+        </div>
+
         <?php if($error) : ?>
             <p class="error"><?php echo $error; ?></p>
         <?php endif; ?>
     </form>
   
-     </body>
-    </html>
+    <script src="js/login.js"></script>
+    </body>
+</html>
