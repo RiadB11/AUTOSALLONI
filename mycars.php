@@ -3,6 +3,10 @@
     include 'database/database.php';
     include 'repositories/CarRepository.php';
 
+    if(!isset($_SESSION['user_id'])) {
+        header('Location: login.php');
+    }
+
     if(isset($_SESSION['is_admin']) && $_SESSION['is_admin']) {
         header('Location: index.php');
     }

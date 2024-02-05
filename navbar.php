@@ -12,7 +12,7 @@
 </head>
 
 <div class="meny">
-    <a href="index.php"><img src="photos/logo1.png" alt="logo"></a>
+    <a href="index.php"><img src="photos/logo.png" alt="logo"></a>
 
     <ul>
         <li><a href="index.php">Home</a></li>
